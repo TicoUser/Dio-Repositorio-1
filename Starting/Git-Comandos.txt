@@ -6,7 +6,7 @@
 - git add . or git add -a (Incluir todas alterações para o stage) 
 - git add <file> (Incluir arquivo para o stage)
 - git clone (clonar repositório para o PC)
-- git push ( empurrar arquivos ao GITHUB)
+- git push origin main ( empurrar arquivos ao GITHUB)
 - git pull ( puxar arquivos do GITHUB)
 
 - dir ( ver pastas no diretório atual)
